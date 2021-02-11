@@ -48,7 +48,7 @@
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-helmet": "^6.1.0",
-    "twin.macro": "^2.2.2"
+    "twin.macro": "^2.2.3"
   },
   "devDependencies": {
     "@graphql-codegen/cli": "^1.20.1",
